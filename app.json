@@ -8,7 +8,7 @@
         "Unzipper bot"
     ],
     "website": "https://t.me/IDNCoder",
-    "repository": "https://github.com/IDN-C-X/IDN-Unzip-Bot",
+    "repository": "https://github.com/meghapoojari/IDN-Unzip-Bot",
     "success_url": "https://t.me/IDNCoder",
     "env": {
         "APP_ID": {
