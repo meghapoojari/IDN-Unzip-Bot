@@ -25,7 +25,7 @@ And Some other features 🔥!
 Deploying is easy 🤫! You can deploy this bot in Heroku or in a VPS ♥️! **Star 🌟 Fork 🍴 and Deploy**
 
 ### With Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/IDN-C-X/IDN-Unzip-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/meghapoojari/IDN-Unzip-Bot)
 
 
 ### With VPS
